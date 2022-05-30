@@ -7,5 +7,5 @@ Mở Terminal và gõ lệnh sau:
 
 ## 2. Run app
 
-1. Trong VS Code, mở View > Command palette > Flutter: Select Device
-2. Chọn device
+1. Trong VS Code, mở View > Command palette > Flutter: Select Device (cần cài đặt [Flutter Extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter))
+2. Chọn device khởi chạy
